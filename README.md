@@ -10,3 +10,6 @@ Para el desarrollo del backend de BiMest Manager, hemos optado por implementar u
 
 ## Integración Continua (CI/CD)
 Como parte de las nuevas tendencias de desarrollo, este repositorio está preparado para integrarse con **GitHub Actions**. Esto nos permitirá automatizar el pipeline de pruebas y el despliegue de nuestros servicios distribuidos cada vez que se realice un "Push" o "Pull Request" hacia la rama `main` (Trunk).
+
+
+Kevin Sandoval Nieves
